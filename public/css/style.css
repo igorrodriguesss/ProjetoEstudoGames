@@ -6,14 +6,6 @@
     margin-top: 10px;
 }
 
-.container-cards {
-    margin-top: 30px;
-}
-
-.card-subtitle {
-    text-align: center;
-}
-
 .table-jogos {
     margin-top: 30px;
 }
@@ -21,3 +13,26 @@
 .body1 {
     padding: 10px 10px 10px 10px;
 }
+
+.tabela {
+    margin-top: 35px;
+}
+
+.title-info {
+    text-align: center;
+    margin-right: 100px;
+}
+
+.title-cadastrar {
+    text-align: center;
+    margin-right: 100px;
+}
+
+.container {
+    padding: 2rem 0rem;
+  }
+  
+  h4 {
+    margin: 2rem 0rem 1rem;
+  }
+  

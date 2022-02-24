@@ -19,7 +19,6 @@ app.use(express.json())
 
 app.use(express.static('public'))
 
-
 // Rota Principal da página
 app.get('/', (req, res) => {
     res.render('home')
