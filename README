@@ -1,3 +1,5 @@
+Estou fazendo um CRUD de JOGOS. O usuario pode por enquanto adicionar um jogo, sua data de lançamento e categoria do jogo. Futuramente a feature de deletar e alterar as informações dos jogos
+
 Apredendo a fazer um CRUD em NODEJS.
 - Utilizando tecnologias como: 
   - ExpressJS
@@ -5,4 +7,4 @@ Apredendo a fazer um CRUD em NODEJS.
   - Handlebars
   - Nodemon
   
-  Estou fazendo um CRUD de JOGOS. O usuario pode por enquanto adicionar um jogo, sua data de lançamento e categoria do jogo. Futuramente a feature de deletar e alterar as informações dos jogos
+ 
